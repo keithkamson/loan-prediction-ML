@@ -25,3 +25,16 @@ Each Applicant is attributed with the following columns in this data set and is 
 | Loan_Status | Whether Loan Approved: Yes/No |
 
 The dimensions of the dataset are 614*13
+
+### Libraries used in this Model
+* [NumPy](http://www.numpy.org/)
+* [Pandas](http://pandas.pydata.org/)
+* [SciKit-Learn](http://scikit-learn.org/stable/)
+* [Matplotlib](http://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+
+### Algorithms used:
+* K-Nearest Neighbors Classifier
+* Random Forest Classifier
+* Decision Tree Classifier
+* Support Vector Classifier
